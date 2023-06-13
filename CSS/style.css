@@ -135,6 +135,10 @@
   font-weight: 700; 
   font-size: 24px;
 }
+.footertext{
+  padding-top: 80px;
+  padding-bottom: 35px;
+}
 @media (min-width: 1409px) {
   .devContentTitle{
     position: relative;

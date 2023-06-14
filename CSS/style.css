@@ -245,4 +245,7 @@
     position: relative;
     left: 70px;
   }
+  .devContent{
+    width: 100%;
+  }
 }
